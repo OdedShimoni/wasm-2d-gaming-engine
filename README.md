@@ -5,9 +5,7 @@
 <strong>A gaming engine for the web. _NOT DONE_</strong>
 
   <h3>
-    <a href="#usage">Usage</a>
-    <span> | </span>
-    <a href="https://discordapp.com/channels/442252698964721669/443151097398296587">Chat</a>
+    <a href="#-usage">Usage</a>
   </h3>
 
 <sub>Built with 🦀🕸 using <a href="https://rustwasm.github.io/">rust-wasm of the amazing The Rust and WebAssembly Working Group</a></sub>
