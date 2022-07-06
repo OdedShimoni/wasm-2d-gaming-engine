@@ -21,7 +21,9 @@
 
 ```
 wasm-pack build
-and then npm start in /www
+cd www
+npm install
+npm start
 ```
 
 ## License
